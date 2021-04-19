@@ -1,0 +1,68 @@
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.deps.json
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.runtimeconfig.json
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.runtimeconfig.dev.json
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.pdb
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.csprojAssemblyReference.cache
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.AssemblyInfoInputs.cache
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.AssemblyInfo.cs
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.csproj.CoreCompileInputs.cache
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/staticwebassets/LoanApi.StaticWebAssets.Manifest.cache
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/staticwebassets/LoanApi.StaticWebAssets.xml
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/LoanApi.styles.css
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.RazorTargetAssemblyInfo.cache
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.csproj.CopyComplete
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.dll
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.pdb
+/Users/jordanswalker/Projects/LoanApi/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.genruntimeconfig.cache
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.deps.json
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.runtimeconfig.json
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.runtimeconfig.dev.json
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/LoanApi.pdb
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.csprojAssemblyReference.cache
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.AssemblyInfoInputs.cache
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.AssemblyInfo.cs
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.csproj.CoreCompileInputs.cache
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/staticwebassets/LoanApi.StaticWebAssets.Manifest.cache
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/staticwebassets/LoanApi.StaticWebAssets.xml
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/LoanApi.styles.css
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.RazorTargetAssemblyInfo.cache
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.csproj.CopyComplete
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.dll
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.pdb
+/Users/jordanswalker/Desktop/YouLendJordanTest/Web Api/LoanApi/obj/Debug/netcoreapp3.1/LoanApi.genruntimeconfig.cache

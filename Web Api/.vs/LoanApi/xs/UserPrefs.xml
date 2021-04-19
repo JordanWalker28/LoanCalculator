@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{65B82783-9258-4B0C-9CC6-9F639CB2F801}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoanApi/Controllers/LoanController.cs">
+    <Files>
+      <File FileName="LoanApi/Controllers/LoanController.cs" Line="16" Column="31" />
+      <File FileName="LoanApi/Models/Loan.cs" />
+      <File FileName="LoanApi/Models/LoanContext.cs" />
+      <File FileName="LoanApi/Properties/launchSettings.json" />
+      <File FileName="LoanApi/Startup.cs" />
+      <File FileName="LoanApi/Program.cs" />
+      <File FileName="LoanApi/LoanApi.csproj" />
+      <File FileName="LoanApi/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoanApi" expanded="True">
+            <Node name="LoanApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="LoanController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LoanApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
